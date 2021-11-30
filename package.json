@@ -1,0 +1,16 @@
+{
+  "name": "@sparing-software/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparingSoftware/prettier-config.git"
+  },
+  "author": "Sparing Software",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SparingSoftware/prettier-config/issues"
+  },
+  "homepage": "https://github.com/SparingSoftware/prettier-config#readme"
+}
