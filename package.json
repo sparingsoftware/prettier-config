@@ -7,10 +7,17 @@
     "type": "git",
     "url": "git+https://github.com/SparingSoftware/prettier-config.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "author": "Sparing Software",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SparingSoftware/prettier-config/issues"
   },
-  "homepage": "https://github.com/SparingSoftware/prettier-config#readme"
+  "homepage": "https://github.com/SparingSoftware/prettier-config#readme",
+  "devDependencies": {
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^21.0.5"
+  }
 }
